@@ -1,0 +1,131 @@
+﻿
+@model IEnumerable<Healt_Care_System.Models.pharmacy>
+@{
+    ViewBag.Title = "Index";
+}
+<link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+<h2>Drugs</h2>
+<div>
+    <a href="@Url.Action("New","Pharmacy")" class="btn btn-success">
+        <i class="fa fa-plus" aria-hidden="true"></i>
+        <span>
+            <strong>Add New</strong>
+        </span>
+    </a>
+</div>
+<br />
+
+<table id="drugs" class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Patient</th>
+            <th>Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+@section scripts{
+
+    <script>
+        $(document).ready(function () {
+          var table = $("#drugs").DataTable({
+                "ajax":{
+                    "url": "/Pharmacy/GetData",
+                    "type": "GET",
+                    "datatype":"json"
+                },
+
+                "columns": [
+
+                    { "data": "Id"},
+                    { "data": "Patient" },
+                    { "data": "Price" },
+
+                     {
+                         "data": "Id", "render": function (data) {
+                             return "<a href='/Pharmacy/Edit/" + data + "'class='btn btn-primary' style='margin-left:7px; '><i class='fa fa-wrench' aria-hidden='true'></i> Edit</a>";
+
+                         }
+                     }
+                ]
+            });
+        });
+
+    </script>
+}
+
+
+@*@model IEnumerable<Healt_Care_System.Models.Drug>
+@{
+    ViewBag.Title = "Index";
+}
+<link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+<h2>Drugs</h2>
+<div>
+    <a href="@Url.Action("New","Pharmacy")" class="btn btn-success">
+        <i class="fa fa-plus" aria-hidden="true"></i>
+        <span>
+            <strong>Add New</strong>
+        </span>
+    </a>
+</div>
+<br />
+
+<table id="drugs" class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Type</th>
+            <th>Concentration</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+
+@section scripts{
+
+    <script>
+        $(document).ready(function () {
+          var table = $("#drugs").DataTable({
+                "ajax":{
+                    "url": "/Pharmacy/GetData",
+                    "type": "GET",
+                    "datatype":"json"
+                },
+
+                "columns": [
+                    
+                    { "data": "DrugId"},                         
+                    { "data": "Name" },
+                    { "data": "DrugTypeRecord.Name" },
+                    { "data": "Concentration" },
+                    { "data": "Price"},
+                    { "data": "Quantity" },                    
+                     {
+                         "data": "DrugId", "render": function (data) {
+                             return "<a href='/Pharmacy/Edit/" + data + "'class='btn btn-primary' style='margin-left:7px; '><i class='fa fa-wrench' aria-hidden='true'></i> Edit</a>";
+
+                         }
+                     }
+                ]
+            });        
+        });
+
+    </script>
+}*@
+
+
+
+
+
+
+
+

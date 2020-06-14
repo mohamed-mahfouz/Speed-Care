@@ -1,0 +1,76 @@
+﻿@model IEnumerable<Healt_Care_System.Models.Room>
+@{
+    ViewBag.Title = "Index";
+}
+<link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+<h2>Rooms</h2>
+<div>
+    <a href="@Url.Action("New","Rooms")" class="btn btn-success">
+        <i class="fa fa-plus" aria-hidden="true"></i>
+        <span>
+            <strong>Add New</strong>
+        </span>
+    </a>
+</div>
+<br />
+
+<table id="rooms" class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Id</th>                                               
+            <th>Type</th>
+            <th>Floor</th>
+            <th>Actions</th>
+        </tr>
+    </thead>   
+    <tbody>
+    </tbody>
+</table>
+
+@section scripts{
+
+    <script>
+        $(document).ready(function () {
+          var table = $("#rooms").DataTable({
+                "ajax":{
+                    "url": "/Rooms/GetData",
+                    "type": "GET",
+                    "datatype":"json"
+                },
+
+                "columns": [
+                    
+                    {"data": "RoomId"},                                                               
+                    {"data": "RoomTypeRecord.Name" },                                                                          
+                    {"data": "Floor" },
+                     {
+                         "data": "RoomId", "render": function (data) {
+                             return "<a class='btn btn-danger js-delete' room-id=" + data + "><i class='fa fa-trash' aria-hidden='true'></i> Delete</a> <a href='/Rooms/Edit/" + data + "'class='btn btn-primary' style='margin-left:7px; '><i class='fa fa-wrench' aria-hidden='true'></i> Edit</a>";
+                         }
+                     }
+                ]
+            });
+
+            $("#rooms ").on("click", ".js-delete", function () {
+                var button = $(this);
+
+                //if (confirm("Are you want to delete this nurse record?")) {
+                bootbox.confirm("Are you sure you want to delete this room record?", function (result) {
+                    if (result) {
+                        $.ajax({
+                            type: "POST",
+                            url: "/rooms/delete/" + button.attr("room-id"),
+                            success: function (data) {
+                                if (data.success) {
+                                    table.ajax.reload();
+
+                                }
+                            }
+                       });
+                    }
+                });
+            });
+        });
+    </script>
+}
+

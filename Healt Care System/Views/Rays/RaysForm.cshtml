@@ -1,0 +1,77 @@
+﻿@model Healt_Care_System.ViewModel.RaysFormViewModel
+@{
+    ViewBag.Title = "RaysForm";
+}
+
+<h2>NewRays</h2>
+
+@using (Html.BeginForm("Save", "Rays"))
+{
+    @Html.ValidationSummary()
+
+    <div class="form-group">
+        @Html.LabelFor(r => r.Rays.PatientName)
+        <div class="tt-container">
+            @Html.TextBoxFor(r => r.Rays.PatientName, new { @class = "form-control" })
+        </div>
+        @Html.ValidationMessageFor(r => r.Rays.PatientName)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(r => r.Rays.TypeId)
+        @Html.DropDownListFor(r => r.Rays.TypeId, new SelectList(Model.RaysType, "Id", "Name"), "Select Type ", new { @class = "form-control" })
+        @Html.ValidationMessageFor(r => r.Rays.TypeId)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(r => r.Rays.AreaId)
+        @Html.DropDownListFor(r => r.Rays.AreaId, new SelectList(" "), "Select Area ", new { @class = "form-control" })
+        @Html.ValidationMessageFor(r => r.Rays.AreaId)
+    </div>
+  
+
+
+    @Html.HiddenFor(r => r.Rays._Id);
+    @Html.HiddenFor(r => r.Rays.Id);
+    <button type="submit" class="btn btn-primary Confirm">Save</button>
+}
+
+@section scripts{
+    
+    <script>
+        $(document).ready(function(){
+            $("#Rays_TypeId").change(function(){
+                $.get("/Rays/GetAreasData", { TypeId: $("#Rays_TypeId").val() }, function (data) {
+                    $("#Rays_AreaId").empty();
+                    $.each(data, function (index, row) {
+                        $("#Rays_AreaId").append("<option value='"+row.Id +"'>"+row.Name+"</option>")
+
+                    });
+                });
+            })
+
+                //type ahead for auto complete
+                var patients = new Bloodhound({
+                datumTokenizer: Bloodhound.tokenizers.obj.whitespace('Name'),
+                queryTokenizer: Bloodhound.tokenizers.obj.whitespace,
+                remote: {
+                    url: '/Patients/GetDataForAutoComplete?query=%QUERY',
+                wildcard: '%QUERY'
+                    
+            }
+        });
+
+
+        $('#Rays_PatientName').typeahead({
+            minLenght: 3,
+            highlight: true
+        }, {
+            name: 'patients',
+            display: 'Name',
+            source: patients
+        }) 
+
+        });
+
+    </script>    
+    
+    }

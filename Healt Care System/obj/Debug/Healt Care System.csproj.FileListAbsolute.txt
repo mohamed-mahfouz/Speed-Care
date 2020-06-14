@@ -1,0 +1,559 @@
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\ApplicationInsights.config
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\roslyn\csc.exe
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\roslyn\System.Collections.Immutable.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\roslyn\vbc.exe
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\roslyn\VBCSCompiler.exe
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\roslyn\VBCSCompiler.exe.config
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Healt Care System.dll.config
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Healt Care System.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Healt Care System.pdb
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Antlr3.Runtime.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\DnsClient.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\EntityFramework.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\EntityFramework.SqlServer.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.AI.Web.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.AI.WindowsServer.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.ApplicationInsights.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.Owin.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Google.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.Web.Infrastructure.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\MongoDB.Bson.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\MongoDB.Driver.Core.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\MongoDB.Driver.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Newtonsoft.Json.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Owin.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\System.Buffers.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\System.Web.Helpers.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\System.Web.Mvc.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\System.Web.Optimization.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\System.Web.Razor.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\System.Web.WebPages.Deployment.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\System.Web.WebPages.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\System.Web.WebPages.Razor.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\WebGrease.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\DnsClient.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.AI.Web.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.AI.WindowsServer.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.ApplicationInsights.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\MongoDB.Bson.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\MongoDB.Driver.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\MongoDB.Driver.Core.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\System.Buffers.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\System.Web.Helpers.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\System.Web.Mvc.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\System.Web.Optimization.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\System.Web.Razor.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\System.Web.WebPages.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\System.Web.WebPages.Deployment.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\System.Web.WebPages.Razor.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Antlr3.Runtime.pdb
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Newtonsoft.Json.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\EntityFramework.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\EntityFramework.SqlServer.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.Owin.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Google.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\obj\Debug\Healt Care System.csprojResolveAssemblyReference.cache
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\obj\Debug\Healt Care System.dll
+c:\users\warrior\documents\visual studio 2015\Projects\Healt Care System\Healt Care System\obj\Debug\Healt Care System.pdb
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\ApplicationInsights.config
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\roslyn\csc.exe
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\roslyn\vbc.exe
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\roslyn\VBCSCompiler.exe
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Healt Care System.dll.config
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Healt Care System.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Healt Care System.pdb
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Antlr3.Runtime.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\DnsClient.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\EntityFramework.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\EntityFramework.SqlServer.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AI.Web.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.ApplicationInsights.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\MongoDB.Bson.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\MongoDB.Driver.Core.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\MongoDB.Driver.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Newtonsoft.Json.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Owin.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\System.Buffers.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\System.Web.Helpers.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\System.Web.Mvc.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\System.Web.Optimization.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\System.Web.Razor.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\System.Web.WebPages.Deployment.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\System.Web.WebPages.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\System.Web.WebPages.Razor.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\WebGrease.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\DnsClient.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AI.Web.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.ApplicationInsights.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\MongoDB.Bson.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\MongoDB.Driver.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\MongoDB.Driver.Core.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\System.Buffers.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\System.Web.Helpers.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\System.Web.Mvc.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\System.Web.Optimization.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\System.Web.Razor.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\System.Web.WebPages.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\System.Web.WebPages.Deployment.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\System.Web.WebPages.Razor.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Antlr3.Runtime.pdb
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Newtonsoft.Json.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\EntityFramework.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\EntityFramework.SqlServer.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\obj\Debug\Healt Care System.csprojResolveAssemblyReference.cache
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\obj\Debug\Healt Care System.dll
+C:\Users\warrior\Desktop\Healt Care System\Healt Care System\obj\Debug\Healt Care System.pdb
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\ApplicationInsights.config
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\roslyn\csc.exe
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\roslyn\vbc.exe
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\roslyn\VBCSCompiler.exe
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Healt Care System.dll.config
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Healt Care System.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Healt Care System.pdb
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Antlr3.Runtime.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\DnsClient.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\EntityFramework.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\EntityFramework.SqlServer.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AI.Web.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.ApplicationInsights.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\MongoDB.Bson.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\MongoDB.Driver.Core.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\MongoDB.Driver.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Newtonsoft.Json.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Owin.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\System.Buffers.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\System.Web.Helpers.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\System.Web.Mvc.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\System.Web.Optimization.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\System.Web.Razor.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\System.Web.WebPages.Deployment.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\System.Web.WebPages.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\System.Web.WebPages.Razor.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\WebGrease.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\DnsClient.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AI.Web.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.ApplicationInsights.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\MongoDB.Bson.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\MongoDB.Driver.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\MongoDB.Driver.Core.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\System.Buffers.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\System.Web.Helpers.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\System.Web.Mvc.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\System.Web.Optimization.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\System.Web.Razor.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\System.Web.WebPages.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\System.Web.WebPages.Deployment.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\System.Web.WebPages.Razor.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Antlr3.Runtime.pdb
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Newtonsoft.Json.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\EntityFramework.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\EntityFramework.SqlServer.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\obj\Debug\Healt Care System.csprojResolveAssemblyReference.cache
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\obj\Debug\Healt Care System.dll
+C:\Users\warrior\Dropbox\My PC (DESKTOP-0TAO45N)\Desktop\Healt Care System\Healt Care System\obj\Debug\Healt Care System.pdb
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\ApplicationInsights.config
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\roslyn\csc.exe
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\roslyn\System.Collections.Immutable.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\roslyn\System.Reflection.Metadata.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\roslyn\vbc.exe
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\roslyn\VBCSCompiler.exe
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\roslyn\VBCSCompiler.exe.config
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Healt Care System.dll.config
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Healt Care System.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Healt Care System.pdb
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Antlr3.Runtime.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\DnsClient.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\EntityFramework.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\EntityFramework.SqlServer.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.Agent.Intercept.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.DependencyCollector.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.PerfCounterCollector.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.ServerTelemetryChannel.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.Web.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.WindowsServer.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.ApplicationInsights.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Core.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Cookies.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Facebook.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Google.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.OAuth.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Twitter.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Web.Infrastructure.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\MongoDB.Bson.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\MongoDB.Driver.Core.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\MongoDB.Driver.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Newtonsoft.Json.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Owin.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\System.Buffers.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Helpers.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Mvc.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Optimization.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Razor.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\System.Web.WebPages.Deployment.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\System.Web.WebPages.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\System.Web.WebPages.Razor.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\WebGrease.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\DnsClient.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.DependencyCollector.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.ServerTelemetryChannel.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.Web.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.WindowsServer.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.ApplicationInsights.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\MongoDB.Bson.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\MongoDB.Driver.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\MongoDB.Driver.Core.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\System.Buffers.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Helpers.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Mvc.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Optimization.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Razor.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\System.Web.WebPages.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\System.Web.WebPages.Deployment.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\System.Web.WebPages.Razor.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Antlr3.Runtime.pdb
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Newtonsoft.Json.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\EntityFramework.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\EntityFramework.SqlServer.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Core.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Facebook.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Cookies.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.OAuth.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Google.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Twitter.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\obj\Debug\Healt Care System.csprojResolveAssemblyReference.cache
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\obj\Debug\Healt Care System.dll
+J:\Dropbox\Dropbox\Healt Care System\Healt Care System\obj\Debug\Healt Care System.pdb
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\ApplicationInsights.config
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\roslyn\csc.exe
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\roslyn\vbc.exe
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\roslyn\VBCSCompiler.exe
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Healt Care System.dll.config
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Healt Care System.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Healt Care System.pdb
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Antlr3.Runtime.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\DnsClient.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\EntityFramework.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\EntityFramework.SqlServer.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.Web.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.ApplicationInsights.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\MongoDB.Bson.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\MongoDB.Driver.Core.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\MongoDB.Driver.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Newtonsoft.Json.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Owin.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\System.Buffers.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Helpers.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Mvc.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Optimization.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Razor.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\System.Web.WebPages.Deployment.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\System.Web.WebPages.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\System.Web.WebPages.Razor.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\WebGrease.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\DnsClient.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.Web.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.ApplicationInsights.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\MongoDB.Bson.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\MongoDB.Driver.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\MongoDB.Driver.Core.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\System.Buffers.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Helpers.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Mvc.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Optimization.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Razor.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\System.Web.WebPages.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\System.Web.WebPages.Deployment.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\System.Web.WebPages.Razor.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Antlr3.Runtime.pdb
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Newtonsoft.Json.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\EntityFramework.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\EntityFramework.SqlServer.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\obj\Debug\Healt Care System.csprojResolveAssemblyReference.cache
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\obj\Debug\Healt Care System.dll
+C:\Users\infot\Dropbox\Healt Care System\Healt Care System\obj\Debug\Healt Care System.pdb
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\ApplicationInsights.config
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\roslyn\csc.exe
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\roslyn\vbc.exe
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Healt Care System.dll.config
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Healt Care System.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Healt Care System.pdb
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Antlr3.Runtime.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\DnsClient.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\EntityFramework.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\EntityFramework.SqlServer.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.Web.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\MongoDB.Bson.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\MongoDB.Driver.Core.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\MongoDB.Driver.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Newtonsoft.Json.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Owin.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\System.Buffers.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Helpers.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Mvc.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Optimization.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Razor.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\System.Web.WebPages.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\WebGrease.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\DnsClient.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.Web.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\MongoDB.Bson.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\MongoDB.Driver.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\MongoDB.Driver.Core.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\System.Buffers.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Helpers.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Mvc.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Optimization.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\System.Web.Razor.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\System.Web.WebPages.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Antlr3.Runtime.pdb
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Newtonsoft.Json.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\EntityFramework.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\EntityFramework.SqlServer.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\obj\Debug\Healt Care System.csproj.CoreCompileInputs.cache
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\obj\Debug\Healt Care System.dll
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\obj\Debug\Healt Care System.pdb
+C:\Users\Ehab El-Adawi\Dropbox\Healt Care System\Healt Care System\obj\Debug\Healt Care System.csprojResolveAssemblyReference.cache

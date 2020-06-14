@@ -1,0 +1,121 @@
+﻿
+@model Healt_Care_System.ViewModel.PharmacyFormViewModel
+@{
+    ViewBag.Title = "PharmacyForm";
+}
+
+<h2>@Model.Pharmacy.Title</h2>
+
+
+@using (Html.BeginForm("Save", "Pharmacy"))
+{
+    @Html.ValidationSummary()
+    <div class="form-group">
+        @Html.LabelFor(d => d.Pharmacy.Patient)
+        <div class="tt-container">
+            @Html.TextBoxFor(d => d.Pharmacy.Patient, new { @class = "form-control" })
+        </div>
+        @Html.ValidationMessageFor(d => d.Pharmacy.Patient)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.Pharmacy.Price)
+        @Html.TextBoxFor(d => d.Pharmacy.Price, new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.Pharmacy.Price)
+    </div>
+    <div>
+        @Html.LabelFor(d => d.Pharmacy.Drugs)
+        @Html.TextAreaFor(d => d.Pharmacy.Drugs, new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.Pharmacy.Drugs)
+
+    </div>
+    <div>
+        @Html.LabelFor(d => d.Pharmacy.Notes)
+        @Html.TextAreaFor(d => d.Pharmacy.Notes, new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.Pharmacy.Notes)
+    </div>
+
+    @Html.HiddenFor(d => d.Pharmacy._Id);
+    @Html.HiddenFor(d => d.Pharmacy.Id);
+    <button type="submit" class="btn btn-primary">Save</button>
+}
+
+
+@section scripts{
+
+    <script>
+        $(document).ready(function () {
+
+            //type ahead for auto complete
+            var patients = new Bloodhound({
+                datumTokenizer: Bloodhound.tokenizers.obj.whitespace('Name'),
+                queryTokenizer: Bloodhound.tokenizers.obj.whitespace,
+                remote: {
+                    url: '/Patients/GetDataForAutoComplete?query=%QUERY',
+                    wildcard: '%QUERY'
+
+                }
+            });
+
+
+            $('#Pharmacy_Patient').typeahead({
+                minLenght: 3,
+                highlight: true
+            }, {
+                name: 'patients',
+                display: 'Name',
+                source: patients
+            })
+
+        });
+
+    </script>
+
+
+}
+
+
+@*@model Healt_Care_System.ViewModel.DrugFormViewModel
+@{
+    ViewBag.Title = "PharmacyForm";
+}
+
+<h2>@Model.Drug.Title</h2>
+
+
+@using (Html.BeginForm("Save", "Pharmacy"))
+{
+    @Html.ValidationSummary()
+    <div class="form-group">
+        @Html.LabelFor(d => d.Drug.DrugId)
+        @Html.TextBoxFor(d => d.Drug.DrugId, new { @class = "form-control", @readonly = "true" })
+        @Html.ValidationMessageFor(d => d.Drug.DrugId)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.Drug.Name)
+        @Html.TextBoxFor(d => d.Drug.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.Drug.Name)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.Drug.DrugTypeId)
+        @Html.DropDownListFor(d => d.Drug.DrugTypeId, new SelectList(Model.DrugTypes, "Id", "Name"), "Select Type ", new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.Drug.DrugTypeId)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.Drug.Concentration)
+        @Html.TextBoxFor(d => d.Drug.Concentration, new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.Drug.Concentration)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.Drug.Price)
+        @Html.TextBoxFor(d => d.Drug.Price, new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.Drug.Price)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.Drug.Quantity)
+        @Html.TextBoxFor(d => d.Drug.Quantity, new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.Drug.Quantity)
+    </div>
+    @Html.HiddenFor(d => d.Drug.Id);
+    <button type="submit" class="btn btn-primary">Save</button>
+}*@
+

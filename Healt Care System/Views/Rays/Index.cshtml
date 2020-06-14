@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Healt_Care_System.Models.Rays>
+@{
+    ViewBag.Title = "Index";
+}
+
+<link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+<h2>Rays</h2>
+<div>
+    <a href="@Url.Action("New","Rays")" class="btn btn-success">
+        <i class="fa fa-plus" aria-hidden="true"></i>
+        <span>
+            <strong>Add New</strong>
+        </span>
+    </a>
+</div>
+<br />
+
+<table id="rays" class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Patient</th>
+            <th>Type</th>
+            <th>Area</th>
+            <th>Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+@section scripts{
+
+    <script>
+        $(document).ready(function () {
+          var table = $("#rays").DataTable({
+                "ajax":{
+                    "url": "/Rays/GetData",
+                    "type": "GET",
+                    "datatype":"json"
+                },
+
+                "columns": [
+                    
+                    { "data": "Id"},                  
+                    { "data": "PatientName" },
+                    { "data": "TypeName" },
+                    { "data": "AreaName" },
+                    { "data": "Price" },
+                     {
+                         "data": "Id", "render": function (data) {
+                             return "<a class='btn btn-danger js-delete' rays-id=" + data + "><i class='fa fa-trash' aria-hidden='true'></i> Delete</a>";
+
+                         }
+                     }
+                ]
+            });
+
+            $("#rays ").on("click", ".js-delete", function () {
+                var button = $(this);
+
+                //if (confirm("Are you want to delete this doctor record?")) {
+                bootbox.confirm("Are you sure you want to delete this patient record?", function (result) {
+                    if (result) {
+                        $.ajax({
+                            type: "POST",
+                            url: "/Rays/Delete/" + button.attr("rays-id"),
+                            success: function (data) {
+                                if (data.success) {
+                                    table.ajax.reload();
+
+                                }
+                            }
+                       });
+                    }
+                });
+            });
+        });
+
+    </script>
+}
+

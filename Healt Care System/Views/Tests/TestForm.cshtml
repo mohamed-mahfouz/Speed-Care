@@ -1,0 +1,77 @@
+﻿@model Healt_Care_System.ViewModel.TestsViewModel
+@{
+    ViewBag.Title = "TestsForm";
+}
+
+<h2>New Medical Test</h2>
+
+@using (Html.BeginForm("Save", "Tests"))
+{
+    @Html.ValidationSummary()
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Tests.PatientName)
+        <div class="tt-container">
+            @Html.TextBoxFor(m => m.Tests.PatientName, new { @class = "form-control" })
+        </div>
+        @Html.ValidationMessageFor(m => m.Tests.PatientName)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Tests.MedicalTestId)
+        @Html.DropDownListFor(m => m.Tests.MedicalTestId, new SelectList(Model.MedicalTest, "Id", "Name"), "Select Medical Test", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Tests.MedicalTestId)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Tests.MedicalTypeId)
+        @Html.DropDownListFor(m => m.Tests.MedicalTypeId, new SelectList(""), "Select Type", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Tests.MedicalTypeId)
+    </div>
+
+    @Html.HiddenFor(m => m.Tests.Id)
+    @Html.HiddenFor(m => m.Tests._Id)
+
+    <button type="submit" class="btn btn-primary Confirm">Save</button>
+}
+
+
+@section scripts{
+
+    <script>
+        $(document).ready(function () {
+            $("#Tests_MedicalTestId").change(function () {
+                $.get("/Tests/GetTypeData", { Id: $("#Tests_MedicalTestId").val() }, function (data) {
+                    $("#Tests_MedicalTypeId").empty();
+                    $.each(data, function (index, row) {
+                        $("#Tests_MedicalTypeId").append("<option value='" + row.Id + "'>" + row.Type + "</option>")
+
+                    });
+                });
+            })
+
+            //type ahead for auto complete
+            var patients = new Bloodhound({
+                datumTokenizer: Bloodhound.tokenizers.obj.whitespace('Name'),
+                queryTokenizer: Bloodhound.tokenizers.obj.whitespace,
+                remote: {
+                    url: '/Patients/GetDataForAutoComplete?query=%QUERY',
+                    wildcard: '%QUERY'
+
+                }
+            });
+
+
+            $('#Tests_PatientName').typeahead({
+                minLenght: 3,
+                highlight: true
+            }, {
+                name: 'patients',
+                display: 'Name',
+                source: patients
+            })
+        });
+
+    </script>
+}
+

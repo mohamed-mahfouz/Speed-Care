@@ -1,0 +1,30 @@
+﻿@model Healt_Care_System.ViewModel.RoomFormViewModel
+@{
+    ViewBag.Title = "RoomForm";
+}
+
+<h2>@Model.Room.Title</h2>
+
+@using (Html.BeginForm("Save", "Rooms"))
+{
+    @Html.ValidationSummary()
+    <div class="form-group">
+        @Html.LabelFor(r => r.Room.RoomId)
+        @Html.TextBoxFor(r => r.Room.RoomId, new { @class = "form-control", @readonly = "true" })
+        @Html.ValidationMessageFor(r => r.Room.RoomId)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(r => r.Room.RoomTypeId)
+        @Html.DropDownListFor(r => r.Room.RoomTypeId, new SelectList(Model.RoomTypes, "Id", "Name"), "Select Type ", new { @class = "form-control" })
+        @Html.ValidationMessageFor(r => r.Room.RoomTypeId)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(r => r.Room.Floor)
+        @Html.TextBoxFor(r => r.Room.Floor, new { @class = "form-control" ,@placeholder="Choose From 1 to 5"})
+        @Html.ValidationMessageFor(r => r.Room.Floor)
+
+    </div>
+      
+    @Html.HiddenFor(d => d.Room.Id);
+    <button type="submit" class="btn btn-primary">Save</button>
+}

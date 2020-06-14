@@ -1,0 +1,88 @@
+﻿@model IEnumerable<Healt_Care_System.Models.Patient>
+@{
+    ViewBag.Title = "Index";
+}
+<link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+<h2>Patients</h2>
+<div>
+    <a href="@Url.Action("New","Patients")" class="btn btn-success">
+        <i class="fa fa-plus" aria-hidden="true"></i>
+        <span>
+            <strong>Add New</strong>
+        </span>
+    </a>
+</div>
+<br />
+
+<table id="patients" class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Address</th>
+            <th>Phone</th>
+            <th>Detection</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+
+@section scripts{
+
+    <script>
+        $(document).ready(function () {
+          var table = $("#patients").DataTable({
+                "ajax":{
+                    "url": "/Patients/GetData",
+                    "type": "GET",
+                    "datatype":"json"
+                },
+
+                "columns": [
+                    {
+                        "data": "Id", "render": function (data) {
+                            return "<a href='/Patients/Details/" + data + "'>" + data + "</a>";
+                        }
+                    },
+                    { "data": "Name" },
+                    { "data": "Age" },
+                    { "data": "Address" },      
+                    { "data": "Phone" },
+                    { "data": "DetectionRecord.Name"},
+                     {
+                         "data": "Id", "render": function (data) {
+                             return "<a class='btn btn-danger js-delete' patient-id=" + data + "><i class='fa fa-trash' aria-hidden='true'></i> Delete</a> <a href='/Patients/Edit/" + data + "'class='btn btn-primary' style='margin-left:7px; '><i class='fa fa-wrench' aria-hidden='true'></i> Edit</a>";
+
+                         }
+                     }
+                ]
+            });
+
+            $("#patients ").on("click", ".js-delete", function () {
+                var button = $(this);
+
+                //if (confirm("Are you want to delete this doctor record?")) {
+                bootbox.confirm("Are you sure you want to delete this patient record?", function (result) {
+                    if (result) {
+                        $.ajax({
+                            type: "POST",
+                            url: "/Patients/Delete/" + button.attr("patient-id"),
+                            success: function (data) {
+                                if (data.success) {
+                                    table.ajax.reload();
+
+                                }
+                            }
+                       });
+                    }
+                });
+            });
+        });
+
+    </script>
+}
+
+

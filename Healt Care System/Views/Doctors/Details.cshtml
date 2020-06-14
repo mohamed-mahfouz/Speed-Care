@@ -1,0 +1,19 @@
+﻿@model Healt_Care_System.Models.Doctor
+@{
+    ViewBag.Title = "Details";
+}
+
+<h1>Details</h1>
+<ul>
+    <li><strong>Id:</strong> @Model.DocId</li>
+    <li><strong>Name:</strong> @Model.Name</li>
+    <li><strong>National Id:</strong> @Model.NationalId</li>
+    <li><strong>Gendre:</strong> @Model.GendreRecord.Name</li>
+    <li><strong>Degree:</strong> @Model.DegreeRecord.Name</li>
+    <li><strong>Specilization:</strong> @Model.SpecRecord.Name</li>
+    <li><strong>Address:</strong> @Model.Address</li>
+    <li><strong>Salary:</strong> @Model.Salary$</li>
+    <li><strong>Date of Birh:</strong> @Model.BithDate.Value.ToShortDateString()</li>
+    <li><strong>Phone:</strong> @Model.Phone</li>
+    <li><strong>Email:</strong> @Model.EmailAddress</li>
+</ul>

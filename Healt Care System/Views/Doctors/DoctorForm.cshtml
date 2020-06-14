@@ -1,0 +1,73 @@
+﻿@model Healt_Care_System.ViewModel.DoctorFormViewModel
+@{
+    ViewBag.Title = "DoctorForm";
+}
+
+
+<h2>@Model.Doctor.Title</h2>
+
+@using (Html.BeginForm("Save", "Doctors"))
+{
+    @Html.ValidationSummary()
+    <div class="form-group">
+        @Html.LabelFor(d => d.Doctor.DocId)
+        @Html.TextBoxFor(d => d.Doctor.DocId, new { @class = "form-control", @readonly = "true" })
+        @Html.ValidationMessageFor(d => d.Doctor.DocId)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.Doctor.NationalId)
+        @Html.TextBoxFor(d => d.Doctor.NationalId, new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.Doctor.NationalId)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.Doctor.Name)
+        @Html.TextBoxFor(d => d.Doctor.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.Doctor.Name)
+   
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.Doctor.Address)
+        @Html.TextBoxFor(d => d.Doctor.Address, new { @class = "form-control" , @placeholder = "123 st " })
+        @Html.ValidationMessageFor(d => d.Doctor.Address)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.Doctor.DegreeId)
+        @Html.DropDownListFor(d => d.Doctor.DegreeId, new SelectList(Model.Degree, "Id", "Name"), "Select Degree ", new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.Doctor.DegreeId)
+    </div>
+    <div class="form-group">
+        
+        @Html.LabelFor(d => d.Doctor.SpecId)
+        @Html.DropDownListFor(d => d.Doctor.SpecId, new SelectList( Model.specs, "Id", "Name"), "Select Specilization ", new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.Doctor.SpecId)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.Doctor.GendreId)
+        @Html.DropDownListFor(d => d.Doctor.GendreId, new SelectList(Model.Gender, "Id", "Name"), "Select Gender ", new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.Doctor.GendreId)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.Doctor.Salary)
+        @Html.TextBoxFor(d => d.Doctor.Salary, new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.Doctor.Salary)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.Doctor.Phone)
+        @Html.TextBoxFor(d => d.Doctor.Phone, new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.Doctor.Phone)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.Doctor.EmailAddress)
+        @Html.TextBoxFor(d => d.Doctor.EmailAddress, new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.Doctor.EmailAddress)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.Doctor.BithDate)
+        @Html.TextBoxFor(d => d.Doctor.BithDate,"{0:d MMM yyyy}", new { @class = "form-control" , @placeholder="mm-dd-yyyy" })
+        @Html.ValidationMessageFor(d => d.Doctor.BithDate)
+    </div>
+
+    @Html.HiddenFor(d => d.Doctor.Id);
+    <button type="submit" class="btn btn-primary">Save</button>
+
+}

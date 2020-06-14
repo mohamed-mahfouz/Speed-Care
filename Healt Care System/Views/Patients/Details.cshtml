@@ -1,0 +1,30 @@
+﻿@model Healt_Care_System.Models.Patient
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+<ul>
+    <li><strong>Id:</strong> @Model.Id</li>
+    <li><strong>Name:</strong> @Model.Name</li>
+    <li><strong>Age:</strong> @Model.Age</li>
+    <li><strong>Address:</strong> @Model.Address</li>
+    <li><strong>job:</strong> @Model.Job</li>
+    <li><strong>Phone:</strong> @Model.Phone</li>
+    @if (Model.BloodType != null)
+    {
+        <li><strong>BloodType:</strong> @Model.BloodType </li>
+    }
+
+    @if (Model.Email != null)
+    {
+        <li><strong>Email:</strong> @Model.Email</li>
+    }
+
+    @if (Model.Notes != null)
+    {
+        <li><strong>Notes:</strong> @Model.Notes</li>
+    }
+
+
+</ul>

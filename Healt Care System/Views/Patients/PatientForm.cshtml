@@ -1,0 +1,70 @@
+﻿@model Healt_Care_System.ViewModel.PatientFormViewModel
+@{
+    ViewBag.Title = "PatientForm";
+}
+
+<h2>@Model.patient.Title</h2>
+
+
+@using (Html.BeginForm("Save", "Patients"))
+{
+    @Html.ValidationSummary()
+    <div class="form-group">
+        @Html.LabelFor(d => d.patient.Id)
+        @Html.TextBoxFor(d => d.patient.Id, new { @class = "form-control", @readonly = "true" })
+        @Html.ValidationMessageFor(d => d.patient.Id)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.patient.Name)
+        @Html.TextBoxFor(d => d.patient.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.patient.Name)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.patient.Age)
+        @Html.TextBoxFor(d => d.patient.Age, new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.patient.Age)
+
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.patient.BloodType)
+        @Html.TextBoxFor(d => d.patient.BloodType, new { @class = "form-control", @placeholder = "A+ , AB+ , B- ,O" })
+        @Html.ValidationMessageFor(d => d.patient.BloodType)
+
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.patient.Job)
+        @Html.TextBoxFor(d => d.patient.Job, new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.patient.Job)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.patient.Address)
+        @Html.TextBoxFor(d => d.patient.Address, new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.patient.Address)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.patient.Phone)
+        @Html.TextBoxFor(d => d.patient.Phone, new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.patient.Phone)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.patient.Email)
+        @Html.TextBoxFor(d => d.patient.Email, new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.patient.Email)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.patient.DetectionId)
+        @Html.DropDownListFor(d => d.patient.DetectionId, new SelectList(Model.Detection, "Id", "Name"), "Select Detection", new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.patient.DetectionId)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(d => d.patient.Notes)
+        @Html.TextAreaFor(d => d.patient.Notes, new { @class="form-control"})
+        @Html.ValidationMessageFor(d => d.patient.Notes)
+    </div>
+
+    @Html.HiddenFor(d => d.patient._Id);
+    <button type="submit" class="btn btn-primary">Save</button>
+
+}
+
+
